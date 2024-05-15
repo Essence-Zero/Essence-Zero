@@ -1,3 +1,4 @@
+```javascript
 const essence = {
   pronouns: "he" | "him",
   education: "high school"
@@ -6,3 +7,4 @@ const essence = {
   architecture: ["looking for contributions"],
   focus: "learning low level languages"
 }
+```
