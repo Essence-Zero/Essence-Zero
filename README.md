@@ -1,3 +1,7 @@
+## Hi 👋
+I'm a high schooler playing with codes.
+
+More about me:
 ```javascript
 const essence = {
   pronouns: "he" | "him",
